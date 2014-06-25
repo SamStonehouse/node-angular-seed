@@ -1,0 +1,21 @@
+{
+	"name": "node-angular-seed",
+	"description": "A seed for creating angular apps on node.js.",
+	"version": "0.1.0",
+	"private": true,
+	"dependencies": {
+		"express": "~4.4.x",
+		"morgan": "~1.0.x",
+		"body-parser": "~1.0.x",
+		"method-override": "~1.0.x",
+		"jade": "~1.3.x"
+	},
+	"devDependencies": {
+		"grunt-autoprefixer": "0.7.x",
+		"grunt-contrib-less": "0.11.x",
+		"grunt-contrib-cssmin": "0.10.x",
+		"grunt-contrib-watch": "0.6.x",
+		"grunt-contrib-concat": "0.4.x"
+	},
+	"main": "server.js"
+}
