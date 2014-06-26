@@ -30,7 +30,7 @@
 		concat: {
 			angular_app: {
 				files: {
-					'public/assets/scripts/app.js': ['assets/scripts/bootstrap.min.js', 'assets/scripts/angular.js', 'assets/scripts/main.js', 'assets/scripts/**/*.js']
+					'public/assets/scripts/app.js': ['assets/scripts/angular.js', 'assets/scripts/angular.boostrap.min.js', 'assets/scripts/main.js', 'assets/scripts/**/*.js']
 				},
 			},
 		},

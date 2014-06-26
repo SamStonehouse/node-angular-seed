@@ -1,7 +1,7 @@
 {
 	"name": "node-angular-seed",
 	"description": "A seed for creating angular apps on node.js.",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"private": true,
 	"dependencies": {
 		"express": "~4.4.x",
